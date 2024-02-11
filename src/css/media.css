@@ -91,6 +91,10 @@
     margin: 40px;
     }
 
+    .products {
+        margin: auto;
+    }
+
     .products img {
     max-width: 200px;
     margin: 20px;

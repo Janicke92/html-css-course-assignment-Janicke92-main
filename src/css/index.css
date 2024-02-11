@@ -53,21 +53,21 @@
   }
   
   .genre-adventure {
-    background-image: url(../../assets/images/genres/adventure.jpg);
+    background-image: linear-gradient(to bottom, rgba(86, 37, 136, 0.8), rgba(37, 12, 62, 0.8)), url(../../assets/images/genres/adventure.jpg);
+  }
+
+  .genre-action  {
+    background-image: linear-gradient(to bottom, rgba(86, 37, 136, 0.8), rgba(37, 12, 62, 0.8)), url(../../assets/images/genres/action.jpg);
   }
   
-  .genre-action {
-    background-image: url(../../assets/images/genres/action.jpg);
+  .genre-platform  {
+    background-image: linear-gradient(to bottom, rgba(86, 37, 136, 0.8), rgba(37, 12, 62, 0.8)), url(../../assets/images/genres/platform.png);
   }
   
-  .genre-platform {
-    background-image: url(../../assets/images/genres/platform.png);
+  .genre-sports  {
+    background-image: linear-gradient(to bottom, rgba(86, 37, 136, 0.8), rgba(37, 12, 62, 0.8)), url(../../assets/images/genres/sports.jpg);
   }
   
-  .genre-sports {
-    background-image: url(../../assets/images/genres/sports.jpg);
-  }
-  
-  .genre-RPG {
-    background-image: url(../../assets/images/genres/RPG.jpg);
+  .genre-RPG  {
+    background-image: linear-gradient(to bottom, rgba(86, 37, 136, 0.8), rgba(37, 12, 62, 0.8)), url(../../assets/images/genres/RPG.jpg);
   }

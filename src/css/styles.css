@@ -47,11 +47,6 @@ nav {
   z-index: 1000;
   right: 0px;
   padding-bottom: 30px;
-  
-  /*
-  float: right;
-  display: flex;
-  align-items: flex-end;*/
 }
 
 #hamburger-menu {
@@ -71,12 +66,10 @@ nav li {
   display: block;
   padding: 30px;
   border-bottom: 2px solid #250C3E;
-  /*display: inline-block;*/
   text-decoration: none;
   font-size: 1.2em;
   font-weight: 600;
   margin: 0%;
-  /*padding: 1rem; */
 
 }
 
@@ -110,4 +103,3 @@ footer a {
 .footer-logo {
   max-height: 10vh;
 }
-
